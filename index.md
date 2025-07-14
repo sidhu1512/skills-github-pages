@@ -3,28 +3,26 @@ layout: default
 title: Siddharth Bhadu - Resume
 ---
 
-<link rel="stylesheet" href="resume.css">
-
-<div class="resume">
-
 # 🧑‍💻 Siddharth Bhadu
 
 **Software Engineer**  
 Chennai, India  
-📧 [bhadusid1512@gmail.com](mailto:bhadusid1512@gmail.com)  📞 +91 7240713544  🔗 [LinkedIn](https://www.linkedin.com/in/siddharth-bhadu-71a483193)  💻 [GitHub](https://github.com/sidhu1512)
+📧 [bhadusid1512@gmail.com](mailto:bhadusid1512@gmail.com)  📞 +91 7240713544  
+🔗 [LinkedIn](https://www.linkedin.com/in/siddharth-bhadu-71a483193)  💻 [GitHub](https://github.com/sidhu1512)
 
 ---
 
 ## 🎓 Education
 
 **Lovely Professional University**, Punjab, India  
-**B.Tech in Computer Science & Engineering**                                *Aug 2019 – May 2023*
+**B.Tech in Computer Science & Engineering**                            *Aug 2019 – May 2023*
 
 ---
 
 ## 💼 Experience
 
-### Software Engineer – *Capgemini*, Chennai, India                        *Aug 2023 – Present* 
+### Software Engineer – *Capgemini*, Chennai, India  
+*Aug 2023 – Present*  
 **Project: FleetNet – Asset Management System** (Client: Penske, US)
 
 - Built REST APIs using Spring Boot for License Renewal, Vehicle Tracking, and Weight Update modules.
@@ -35,7 +33,8 @@ Chennai, India
 - Optimized PL/SQL stored procedures and batch queries, reducing processing time by up to 30%.
 - Automated daily batch jobs with full validation, scheduling, and logging.
 
-### Software Engineer Intern – *Capgemini*, Chennai, India                  *Mar 2023 – May 2023*
+### Software Engineer Intern – *Capgemini*, Chennai, India  
+*Mar 2023 – May 2023*
 
 - Supported backend Java development using Spring Boot.
 - Debugged APIs and worked within real-time agile teams to understand full SDLC.
